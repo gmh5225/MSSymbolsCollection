@@ -1,0 +1,2 @@
+# MSSymbolsCollection
+MS symbols collection
